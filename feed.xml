@@ -3,10 +3,22 @@
     <title>HLM Style Guide</title>
     <link href="https://thiagohsr.github.io/gh-pages-publii/feed.xml" rel="self" />
     <link href="https://thiagohsr.github.io/gh-pages-publii" />
-    <updated>1969-12-31T21:00:00-03:00</updated>
+    <updated>2022-08-26T11:14:54-03:00</updated>
     <author>
         <name>Paulo Garcia de Almeida</name>
     </author>
     <id>https://thiagohsr.github.io/gh-pages-publii</id>
 
+    <entry>
+        <title>Bla bla bla</title>
+        <author>
+            <name>Paulo Garcia de Almeida</name>
+        </author>
+        <link href="https://thiagohsr.github.io/gh-pages-publii/bla-bla-bla.html"/>
+        <id>https://thiagohsr.github.io/gh-pages-publii/bla-bla-bla.html</id>
+
+        <updated>2022-08-26T11:14:54-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
